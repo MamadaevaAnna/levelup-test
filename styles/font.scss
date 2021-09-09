@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueRegular.eot');
+    src: local('Bebas Neue Regular'), local('BebasNeueRegular'),
+        url('../fonts/BebasNeue/BebasNeueRegular.eot') format('embedded-opentype'),
+        url('../fonts/BebasNeue/BebasNeueRegular.woff') format('woff'),
+        url('../fonts/BebasNeue/BebasNeueRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueBold.eot');
+    src: local('Bebas Neue Bold'), local('BebasNeueBold'),
+        url('../fonts/BebasNeue/BebasNeueBold.eot') format('embedded-opentype'),
+        url('../fonts/BebasNeue/BebasNeueBold.woff') format('woff'),
+        url('../fonts/BebasNeue/BebasNeueBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular.eot');
+    src: local('Oswald Regular'), local('Oswald-Regular'),
+        url('../fonts/Oswald/Oswald-Regular.eot') format('embedded-opentype'),
+        url('../fonts/Oswald/Oswald-Regular.woff') format('woff'),
+        url('../fonts/Oswald/Oswald-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Bold.eot');
+    src: local('Oswald Bold'), local('Oswald-Bold'),
+        url('../fonts/Oswald/Oswald-Bold.eot') format('embedded-opentype'),
+        url('../fonts/Oswald/Oswald-Bold.woff') format('woff'),
+        url('../fonts/Oswald/Oswald-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
